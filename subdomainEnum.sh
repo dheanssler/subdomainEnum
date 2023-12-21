@@ -50,3 +50,4 @@ if [ -e $outputDir/subdomainHijacking ]; then
 else
 	printf "[+] No subdomain hijacking candidates identified...\n"
 fi
+#
